@@ -1,3 +1,6 @@
 ### Hi there 👋
 
-Perkenalkan nama saya ***Rafi Dany Rasyad***
+***Rafi Dany R , Here!!!***
+##
+:seedling: I'm currently learning ***Android Development*** \
+:email: rafidanyr@gmail.com

@@ -2,7 +2,7 @@
 
 ***Rafi Dany R , Here!!!***
 ##
-:seedling: I'm currently learning **Android Development** \
+:seedling: I'm currently learning **Android App Development** \
 :email: rafidanyr@gmail.com \
 :student: an ordinary college student
 

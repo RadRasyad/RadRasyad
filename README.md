@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ***Dany, Here!!!***
 
@@ -7,7 +7,7 @@
 ##
 :seedling: I'm currently learning **Android App Development** \
 :email: Reach me at rafidanyr@gmail.com \
-:student: an ordinary college student
+:student: college student
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadRasyad&layout=compact)](https://github.com/RadRasyad)
